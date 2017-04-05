@@ -13,8 +13,8 @@ s.license          = { :type => 'MIT', :file => 'LICENSE' }
 s.platform     = :ios, "9.0"
 s.author       = { 'pjk1129' => 'pjk1129@qq.com' }
 
-s.source       = { :git => "https://github.com/pjk1129/JKCycleScroll.git", :tag => "1.0.0"}
-s.source_files  = 'SOCycleSrollView/SOCycleSrollView.swift'
+s.source       = { :git => "https://github.com/pjk1129/SOCycleScroll.git", :tag => "1.0.0"}
+s.source_files  = 'SOCycleSrollView/*.swift'
 
 s.requires_arc = true
 
